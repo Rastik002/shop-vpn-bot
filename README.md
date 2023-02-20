@@ -1,7 +1,7 @@
 # shop-vpn-bot
 
 functional:
-
+----------------------------------------------------------------------------
 The user has
 
 Replenishment of the balance with a crypt, a lolz
@@ -9,9 +9,9 @@ Replenishment of the balance with a crypt, a lolz
 Promocode system
 
 Purchase of goods
-
+----------------------------------------------------------------------------
 Admin panel
-
+----------------------------------------------------------------------------
 Ban/Unban
 
 Mailing
@@ -25,9 +25,9 @@ Addendum/Deleting Categories
 Addendum/Deleting an tovars
 
 Addendum/Deleting a promo code
-
+----------------------------------------------------------------------------
 manual:
-
+----------------------------------------------------------------------------
 In the misc folder in the config file.py fill in all data
 
 Installing libraries:
