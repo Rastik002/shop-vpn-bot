@@ -9,6 +9,7 @@ Replenishment of the balance with a crypt, a lolz
 Promocode system
 
 Purchase of goods
+
 ----------------------------------------------------------------------------
 Admin panel
 ----------------------------------------------------------------------------
@@ -25,6 +26,7 @@ Addendum/Deleting Categories
 Addendum/Deleting an tovars
 
 Addendum/Deleting a promo code
+
 ----------------------------------------------------------------------------
 manual:
 ----------------------------------------------------------------------------
