@@ -5,17 +5,25 @@ functional:
 The user has
 
 Replenishment of the balance with a crypt, a lolz
+
 Promocode system
+
 Purchase of goods
 
 Admin panel
 
 Ban/Unban
+
 Mailing
+
 Statistics
+
 Addendum/Deleting a user's balance
+
 Addendum/Deleting Categories
+
 Addendum/Deleting an tovars
+
 Addendum/Deleting a promo code
 
 manual:
